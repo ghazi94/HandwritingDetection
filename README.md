@@ -3,7 +3,7 @@
 # About
 
 **MATLAB Application based on Artificial Neural Networks to detect and recognise human handwriting
-[![](https://raw.githubusercontent.com/ghazi94/HandwritingDetection/master/ocr5.JPG)](https://github.com/ghazi94/HandwritingDetection)
+[![](https://raw.githubusercontent.com/ghazi94/HandwritingDetection/master/Application_Demo.png)](https://github.com/ghazi94/HandwritingDetection)
 
 **FAQ (abbreviated)**:
 
